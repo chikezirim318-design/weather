@@ -1,2 +1,2 @@
 # weather
-checking of current weater
+checking for current weater
